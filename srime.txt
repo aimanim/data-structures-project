@@ -1,0 +1,14 @@
+REGISTER		NAME			AGE			CRIMES COMMITTED	LEVEL			AREA		YEARS OF JAIL	DNA SEQUENCE
+
+1234			seher			32			arson			6			KHI		9		AGTCCGTG
+3421			aiman			56			theft			1			KHI		0		ACCGGTTT
+4567			humam			41			murder			7			HYD		20		AGGTCCTA
+3452			alishba			25			murder			7			LHR		20		AAGTACGG
+1342			arqam			21			larceny			3			ISL		2		AGGTCGAA
+1002			james			31			fraud			5			KHI		5		AGGGTACC
+9029			peter			32			assault			4			LND		3		GTACGGCA
+2002			hana			28			fraud			5			ISL		5		GTATTCAG
+6000			bilal			21			bribery			2			KHI		1		GCTGGTAA
+4444			aiman			56			larceny			3			KHI		2		ACCGGTTT
+7690			yazir			29			arson			6			LHR		9		GATGTACC
+6969			bilalpt2			66			pedo			99			KHI		66		CATGGTAC
